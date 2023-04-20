@@ -14,11 +14,11 @@ Several studies have demonstrated that nonuniform spatial and temporal distribut
 
 [https://github.com/mzp0109/MariaProject/tree/main/Data]
 
-# Statistics
+# Codes Statistics
 
 [https://github.com/mzp0109/MariaProject/tree/main/Statistics]
 
-# Graphs
+# Codes Graphs
 
 [https://github.com/mzp0109/MariaProject/tree/main/Graphs%26Figures]
 
