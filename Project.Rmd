@@ -2,7 +2,9 @@
 title: "Project"
 author: "Maria Leticia"
 date: "2023-04-20"
-output: html_document
+output:
+  html_document: default
+ 
 ---
 
 ## Statistics
